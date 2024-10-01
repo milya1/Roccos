@@ -91,6 +91,7 @@ appetizers and salads - first block
 rocco's specialty pizza - second block (right after salads)  
 build your own table - a short code with price/topping table contents (keep in mind that this block formatting looks different from other blocks)  
 desserts and soft drinks - the last block on the page
+You would need to open a necessary file (for example [appetizers and salads](../menu%20repository/appetizers%20salads.txt)), copy the content and paste it into the block in the squarespace menu you have been working on
 
 
 #### _If you're stuck or something isn’t working:_  
