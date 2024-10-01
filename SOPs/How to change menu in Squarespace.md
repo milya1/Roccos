@@ -31,6 +31,7 @@ Click on the menu page to open it.
 
 
 **Step 2: Editing the Menu**
+
 Enable Page Edit Mode:
 Navigate to your Menu Page and click Edit on the top left.
 
