@@ -27,6 +27,7 @@ On the left side of the dashboard, find and click on Pages.
 Find Your Menu Page:
 In the Page Menu, look for your restaurant's menu page (it might be named something like "Menu" or "Food & Drink").
 Click on the menu page to open it.
+![Pages](screenshots/chrome_NJmd1qF5cJ.png)
 
 Access Edit Mode:
 
