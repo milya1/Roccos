@@ -1,0 +1,49 @@
+Desserts
+----------
+Ask your server for this week’s specials
+
+Soft Drinks
+----------
+Ask your server for this week’s specials
+
+Coke
+<br>
+4
+
+Diet Coke
+<br>
+4
+
+Sprite
+<br>
+4
+
+Root Beer
+Snoqualmie Falls
+5
+
+Topo Chico
+Mineral Water
+5
+
+Mexican Coke
+<br>
+5
+
+Mexican 7up
+<br>
+5
+
+Mexican Squirt
+<br>
+5
+
+Limonata 
+Lemon Pelegrino
+5
+Aranciata Rossa
+Blood Orange Pelegrino 
+5
+Ginger Beer 
+Fever Tree Premium
+5

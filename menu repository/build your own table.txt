@@ -1,0 +1,78 @@
+<style>
+  /* Web View */
+.custom-pizza-menu {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr); /* 7 columns for Combo and 6 Toppings */
+  gap: 10px;
+}
+
+/* Mobile View */
+@media (max-width: 600px) {
+  .custom-pizza-menu {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+      "combo full half"
+      "cheese price1 price2"
+      "topping1 price3 price4"
+      "topping2 price5 price6"
+      "topping3 price7 price8"
+      "topping4 price9 price10"
+      "topping5 price11 price12";
+  }
+
+  .custom-header:nth-child(1) { grid-area: combo; }
+  .custom-header:nth-child(2) { grid-area: cheese; }
+  .custom-header:nth-child(3) { grid-area: topping1; }
+  .custom-header:nth-child(4) { grid-area: topping2; }
+  .custom-header:nth-child(5) { grid-area: topping3; }
+  .custom-header:nth-child(6) { grid-area: topping4; }
+  .custom-header:nth-child(7) { grid-area: topping5; }
+
+  .custom-label:nth-child(8) { grid-area: full; }
+  .custom-label:nth-child(15) { grid-area: half; }
+
+  .custom-price:nth-child(9) { grid-area: price1; }
+  .custom-price:nth-child(10) { grid-area: price2; }
+  .custom-price:nth-child(11) { grid-area: price3; }
+  .custom-price:nth-child(12) { grid-area: price4; }
+  .custom-price:nth-child(13) { grid-area: price5; }
+  .custom-price:nth-child(14) { grid-area: price6; }
+  .custom-price:nth-child(16) { grid-area: price7; }
+  .custom-price:nth-child(17) { grid-area: price8; }
+  .custom-price:nth-child(18) { grid-area: price9; }
+  .custom-price:nth-child(19) { grid-area: price10; }
+  .custom-price:nth-child(20) { grid-area: price11; }
+  .custom-price:nth-child(21) { grid-area: price12; }
+}
+</style>
+
+
+
+<div class="custom-pizza-menu">
+  <!-- Headers (Combo and Toppings) -->
+  <div class="custom-header">Combo</div>
+  <div class="custom-header">Cheese</div>
+  <div class="custom-header">Topping 1</div>
+  <div class="custom-header">Topping 2</div>
+  <div class="custom-header">Topping 3</div>
+  <div class="custom-header">Topping 4</div>
+  <div class="custom-header">Topping 5</div>
+
+  <!-- Full prices -->
+  <div class="custom-label">Full</div>
+  <div class="custom-price">$40</div>
+  <div class="custom-price">$44</div>
+  <div class="custom-price">$46</div>
+  <div class="custom-price">$48</div>
+  <div class="custom-price">$50</div>
+  <div class="custom-price">$52</div>
+
+  <!-- Half prices -->
+  <div class="custom-label">Half</div>
+  <div class="custom-price">$26</div>
+  <div class="custom-price">$30</div>
+  <div class="custom-price">$32</div>
+  <div class="custom-price">$34</div>
+  <div class="custom-price">$36</div>
+  <div class="custom-price">$38</div>
+</div>
