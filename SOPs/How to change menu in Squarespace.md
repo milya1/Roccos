@@ -35,14 +35,14 @@ Click on the menu page to open it.
 
 **Step 2: Editing the Menu**
 
-Enable Page Edit Mode:
+Enable Page Edit Mode:  
 Navigate to your Menu Page and click Edit on the top left.
 
 ![Edit page](screenshots/chrome_6mCvFMpn59.png)
 
 **Step 3: Editing the content**
 
-Edit Text:
+Edit Text:  
 Scroll to the section where you would like to make changes and then double-click on the text area where the menu is displayed (menu items and prices).
 ![Find the section to edit](screenshots/chrome_XPTLqVwEik.png)
 
@@ -53,7 +53,7 @@ The window on the right will pop up.
 
 **Step 4: Saving Your Changes**
 
-Save the Page:
+Save the Page:  
 Once you've made your changes and _all looks good_, click Save (top left) and then Exit (top left).
 ![Save](screenshots/chrome_ihX4LI27LR.png)
 
@@ -65,7 +65,7 @@ Your changes are now live on the website.
 If you accidentally deleted something, click exit. It will ask you if you want to exit without saving, click exit under that message.
 ![Exit](screenshots/chrome_lojQSNYhUY.png)
 
-Go to Your Live Website:
+Go to Your Live Website:  
 Open a new tab and type in your website’s URL (e.g., www.yourrestaurant.com).
 
 5. Viewing Your Updated Menu
@@ -73,30 +73,31 @@ Open a new tab and type in your website’s URL (e.g., www.yourrestaurant.com).
 
 **Troubleshooting Tips**
 
-_I Can’t Find the Edit Button:_
+_I Can’t Find the Edit Button:_  
 Make sure you're logged in to Squarespace and that you are viewing the correct page. Check the top left for the Edit button.
 
-_Changes Not Showing:_
+_Changes Not Showing:_  
 Ensure you've clicked Save after editing. Sometimes, refreshing your browser will help you see the changes.
 
-_Accidentally Deleted Something:_
+_Accidentally Deleted Something:_  
 Don't panic! If you made a mistake, click Exit instead of Save and don't save changes.
 
 
-_Accidentally Deleted Part of the menu code and saved:_
+_Accidentally Deleted Part of the menu code and saved:_  
 Don't panic! If you made a mistake in any section of the menu below is the link to the folder with menu sections saved:
 [Food menu blocks here](../menu%20repository/)
 
 
-There are 4 files for the main menu page:
-appetizers and salads - first block
-rocco's specialty pizza - second block (right after salads)
-build your own table - a short code with price/topping table contents (keep in mind that this block formatting looks different from other blocks)
+There are 4 files for the main menu page:  
+appetizers and salads - first block  
+rocco's specialty pizza - second block (right after salads)  
+build your own table - a short code with price/topping table contents (keep in mind that this block formatting looks different from other blocks)  
 desserts and soft drinks - the last block on the page
 
 
-_If you're stuck or something isn’t working:_
-Visit Squarespace Help Center:
+_If you're stuck or something isn’t working:_  
+Visit Squarespace Help Center:  
 Go to help.squarespace.com.
-Use the Live Chat:
+
+Use the Live Chat:  
 Click on Contact Us to speak to a Squarespace support agent directly.
