@@ -1,12 +1,11 @@
 
-****1. Accessing Squarespace****
-
+****1. Accessing Squarespace****  
 Open Your Browser: Use Google Chrome, Firefox, or Safari for best results.
 
 Go to Squarespace Website:
 squarespace.com
 
-Login to Your Account:
+Login to Your Account:  
 Click the Login button (top right).
 
 Enter your email and password, then click Sign In.
