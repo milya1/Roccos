@@ -86,7 +86,8 @@ Don't panic! If you made a mistake, click Exit instead of Save and don't save ch
 
 _Accidentally Deleted Part of the menu code and saved:_
 Don't panic! If you made a mistake in any section of the menu below is the link to the folder with menu sections saved:
-https://github.com/milya1/Roccos/tree/main/menu%20repository
+[Food menu blocks here](../menu%20repository/)
+
 
 There are 4 files for the main menu page:
 appetizers and salads - first block
