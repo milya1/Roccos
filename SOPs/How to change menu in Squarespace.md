@@ -13,10 +13,10 @@ Enter your email and password, then click Sign In.
 
 ****2. Navigating the Squarespace Dashboard****
 
-Access the Dashboard:
+Access the Dashboard:  
 Once logged in, you'll see the Squarespace Dashboard. This is where you manage your website.
 
-Select Your Website:
+Select Your Website:  
 Select the website you want to work on from the dashboard list.
 
 **3. Editing a Restaurant Menu on Squarespace**
@@ -24,12 +24,12 @@ Select the website you want to work on from the dashboard list.
 
 **Step 1: Locating the Menu Page**
 
-Go to Pages:
+Go to Pages:  
 On the left side of the dashboard, find and click on Pages.
 
-Find Your Menu Page:
-In the Page Menu, look for your restaurant's menu page (it might be named something like "Menu" or "Food & Drink").
-Click on the menu page to open it.
+Find Your Menu Page:  
+In the Page Menu, look for your restaurant's menu page (it might be named something like "Menu" or "Food & Drink").  
+Click on the menu page to open it.  
 ![Pages](screenshots/chrome_NJmd1qF5cJ.png)
 
 
