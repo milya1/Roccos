@@ -29,56 +29,63 @@ In the Page Menu, look for your restaurant's menu page (it might be named someth
 Click on the menu page to open it.
 ![Pages](screenshots/chrome_NJmd1qF5cJ.png)
 
-Access Edit Mode:
-
-Navigate to your Menu Page and click Edit on the top left.
-
 
 **Step 2: Editing the Menu**
 Enable Page Edit Mode:
+Navigate to your Menu Page and click Edit on the top left.
 
-Click Edit at the top right of the menu page. This puts the page into edit mode.
+![Edit page](screenshots/chrome_6mCvFMpn59.png)
 
+**Step 3: Editing the content**
 Edit Text:
+Scroll to the section where you would like to make changes and then double-click on the text area where the menu is displayed (menu items and prices).
+![Find the section to edit](screenshots/chrome_XPTLqVwEik.png)
 
-Double-click on the text area where the menu is displayed (menu items and prices).
 The window on the right will pop up.
+![Find the section to edit](screenshots/chrome_IVTZKmKij0.png)
 
 
-
-
-Step 4: Saving Your Changes
+**Step 4: Saving Your Changes**
 Save the Page:
-Once you've made your changes, click Done (top right) and select Save.
+Once you've made your changes and _all looks good_, click Save (top left) and then Exit (top left).
+![Save](screenshots/chrome_ihX4LI27LR.png)
+![Exit](screenshots/chrome_OhRqiBOPSi.png)
 Your changes are now live on the website.
-4. Adding or Updating a PDF Menu (Optional)
-If you prefer to update the menu by uploading a PDF file:
 
+If you accidentally deleted something, click exit. It will ask you if you want to exit without saving, click exit under that message.
+![Exit](screenshots/chrome_lojQSNYhUY.png)
 
-
-5. Viewing Your Updated Menu
 Go to Your Live Website:
 Open a new tab and type in your website’s URL (e.g., www.yourrestaurant.com).
-Check the Menu:
-Navigate to the Menu Page and verify that all your changes are visible and correct.
-6. Troubleshooting Tips
-I Can’t Find the Edit Button:
 
-Make sure you're logged in to Squarespace and that you are viewing the correct page. Check the top right for the Edit button.
-Changes Not Showing:
+5. Viewing Your Updated Menu
 
+
+**Troubleshooting Tips**
+
+_I Can’t Find the Edit Button:_
+Make sure you're logged in to Squarespace and that you are viewing the correct page. Check the top left for the Edit button.
+
+_Changes Not Showing:_
 Ensure you've clicked Save after editing. Sometimes, refreshing your browser will help you see the changes.
-Accidentally Deleted Something:
 
-Don't panic! If you made a mistake, click Cancel instead of Save before exiting the editor.
+_Accidentally Deleted Something:_
+Don't panic! If you made a mistake, click Exit instead of Save and don't save changes.
 
 
-7. Contact Squarespace Support
-If you're stuck or something isn’t working:
+_Accidentally Deleted Part of the menu code and saved:_
+Don't panic! If you made a mistake in any section of the menu below is the link to the folder with menu sections saved:
+https://github.com/milya1/Roccos/tree/main/menu%20repository
 
+There are 4 files for the main menu page:
+appetizers and salads - first block
+rocco's specialty pizza - second block (right after salads)
+build your own table - a short code with price/topping table contents (keep in mind that this block formatting looks different from other blocks)
+desserts and soft drinks - the last block on the page
+
+
+_If you're stuck or something isn’t working:_
 Visit Squarespace Help Center:
-
 Go to help.squarespace.com.
 Use the Live Chat:
-
 Click on Contact Us to speak to a Squarespace support agent directly.
