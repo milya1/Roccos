@@ -1,5 +1,5 @@
 
-**1. Accessing Squarespace**
+****1. Accessing Squarespace****
 Open Your Browser: Use Google Chrome, Firefox, or Safari for best results.
 
 Go to Squarespace Website:
@@ -10,7 +10,7 @@ Click the Login button (top right).
 
 Enter your email and password, then click Sign In.
 
-**2. Navigating the Squarespace Dashboard**
+****2. Navigating the Squarespace Dashboard****
 Access the Dashboard:
 Once logged in, you'll see the Squarespace Dashboard. This is where you manage your website.
 
