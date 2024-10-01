@@ -1,5 +1,6 @@
 
 ****1. Accessing Squarespace****
+
 Open Your Browser: Use Google Chrome, Firefox, or Safari for best results.
 
 Go to Squarespace Website:
@@ -11,6 +12,7 @@ Click the Login button (top right).
 Enter your email and password, then click Sign In.
 
 ****2. Navigating the Squarespace Dashboard****
+
 Access the Dashboard:
 Once logged in, you'll see the Squarespace Dashboard. This is where you manage your website.
 
@@ -18,6 +20,7 @@ Select Your Website:
 Select the website you want to work on from the dashboard list.
 
 **3. Editing a Restaurant Menu on Squarespace**
+
 
 **Step 1: Locating the Menu Page**
 
@@ -38,19 +41,25 @@ Navigate to your Menu Page and click Edit on the top left.
 ![Edit page](screenshots/chrome_6mCvFMpn59.png)
 
 **Step 3: Editing the content**
+
 Edit Text:
 Scroll to the section where you would like to make changes and then double-click on the text area where the menu is displayed (menu items and prices).
 ![Find the section to edit](screenshots/chrome_XPTLqVwEik.png)
+
 
 The window on the right will pop up.
 ![Find the section to edit](screenshots/chrome_IVTZKmKij0.png)
 
 
 **Step 4: Saving Your Changes**
+
 Save the Page:
 Once you've made your changes and _all looks good_, click Save (top left) and then Exit (top left).
 ![Save](screenshots/chrome_ihX4LI27LR.png)
+
 ![Exit](screenshots/chrome_OhRqiBOPSi.png)
+
+
 Your changes are now live on the website.
 
 If you accidentally deleted something, click exit. It will ask you if you want to exit without saving, click exit under that message.
