@@ -11,6 +11,7 @@ Click the Login button (top right).
 
 Enter your email and password, then click Sign In.
 
+
 ****2. Navigating the Squarespace Dashboard****
 
 Access the Dashboard:
